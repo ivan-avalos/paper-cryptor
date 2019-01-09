@@ -14,22 +14,14 @@ PaperCryptor uses a really fundamental logical component called: XOR. No complex
 
 ## Why do I have many *Cryptors?
 
-+ [Crack**Cryptor**]
-(https://github.com/ivan-avalos/crackcryptor)
-**2016** 
-Graphical encryption tool made using Qt.
-+ [Quick**Cryptor**]
-(https://github.com/ivan-avalos/quick-cryptor)
-**2018**
-Simple CLI encryption tool written in C.
-+ [gQuick**Cryptor**]
-(https://github.com/ivan-avalos/g-quick-cryptor)
-**2018** 
-GUI for QuickCryptor made using GTK+.
-+ [Paper**Cryptor**]
-(https://github.com/ivan-avalos/paper-cryptor) 
-**2018**
-Simple encryption tool made on paper.
++ <a href="https://github.com/ivan-avalos/crackcryptor">Crack**Cryptor**</a> 
+**2016** Graphical encryption tool made using Qt.
++ <a href="https://github.com/ivan-avalos/quick-cryptor">Quick**Cryptor**</a> 
+**2018** Simple CLI encryption tool written in C.
++ <a href="https://github.com/ivan-avalos/g-quick-cryptor">gQuick**Cryptor**</a> 
+**2018** GUI for QuickCryptor made using GTK+.
++ <a href="https://github.com/ivan-avalos/paper-cryptor">Paper**Cryptor**</a> 
+**2018** Simple encryption tool made on paper.
 
 Well, maybe because it's very easy and funny to create a symmetric encryption tool, emphasizing _funny_. I don't know much about cryptography, but creating programs like this makes me feel like at least I'm able to do something.
 
